@@ -1,2 +1,2 @@
-when says allmenu=bot menu
-when says menu=bot menu
+when says allmenu=reply with bot allmenu
+when says menu=reply with bot menu
