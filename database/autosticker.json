@@ -1,4 +1,4 @@
-1 +global.reactmoji = "😜" //ur hi react emoji
-2 +global.reactmoji = "👋" //ur bye react emoji
-3 +global.reactmoji = "🌛" //ur gn react emoji
-4 +global.reactmoji = "🤬" //ur මේ බොට් එක්ක බෑනෙ
+1 global.reactmoji = "😜" //ur hi react emoji
+2 global.reactmoji = "👋" //ur bye react emoji
+3 global.reactmoji = "🌛" //ur gn react emoji
+4 global.reactmoji = "🤬" //ur මේ බොට් එක්ක බෑනෙ
